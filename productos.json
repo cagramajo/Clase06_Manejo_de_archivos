@@ -1,0 +1,28 @@
+[
+    {
+        "title":"Kirkland Organic Lemonade, 150 ml",
+        "price": "1.5",
+        "thumbnail": "https://res.cloudinary.com/redq-inc/image/upload/v1600699913/pickbazar/bakery/Juice4_1_xt54si.jpg"
+    },
+    {
+        "title":"Freshly Baked Mixed Cookies, 890g",
+        "price": "7.2",
+        "thumbnail": "https://res.cloudinary.com/redq-inc/image/upload/v1600694740/pickbazar/bakery/Cookies-2_osbjsh.jpg"
+    },
+    {
+        "title":"Cafe Valley Chocolate Nut Muffins 12 ct",
+        "price": "1.5",
+        "thumbnail": "https://res.cloudinary.com/redq-inc/image/upload/v1600691379/pickbazar/bakery/Muffin_etfkjb.jpg"
+    },
+    {
+        "title":"Chuckanut Bay Foods Cheese Cake, 8 oz",
+        "price": "1.4",
+        "thumbnail": "https://res.cloudinary.com/redq-inc/image/upload/v1600683068/pickbazar/bakery/Pice_Cake-6_lmcmv5.jpg"
+    },
+    {
+        "title":"Signature Chocolate Cake Iced Fudge 7 oz",
+        "price": "11.75",
+        "thumbnail": "https://res.cloudinary.com/redq-inc/image/upload/v1600682323/pickbazar/bakery/Round_Cake-8_rjbmjc.jpg"
+    }
+    
+]
